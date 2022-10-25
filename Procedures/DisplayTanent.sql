@@ -1,0 +1,5 @@
+CREATE PROCEDURE GetTanent
+AS
+BEGIN
+SELECT *FROM tblTanent
+END

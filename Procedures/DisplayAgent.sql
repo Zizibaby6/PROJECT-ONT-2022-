@@ -1,0 +1,8 @@
+CREATE PROCEDURE GetAgent
+
+as
+BEGIN
+
+SELECT*FROM tblAgent
+
+END
