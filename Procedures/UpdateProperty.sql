@@ -2,7 +2,7 @@ CREATE PROCEDURE updateProperty
 @PropertyID INT,
 @Price REAL,
 @PropertyTypeID INT,
-@Status NCHAR,
+@Status NCHAR
 
 
 AS

@@ -1,0 +1,5 @@
+CREATE PROCEDURE DisplayRental
+AS
+BEGIN
+SELECT * FROM tblRental
+END
